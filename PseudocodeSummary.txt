@@ -1,5 +1,7 @@
-THIS IS A NEW BIT OF STUFF AND I WANT TO SEE ABOUT HOW GIT WORKS
-
+THIS IS A NEW BIT AND I WANT TO SEE ABOUT HOW GIT WORKS
+Well
+it seems to work actually?
+weoeo!
 
 Normal Items:
 quality - 1

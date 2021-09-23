@@ -30,7 +30,7 @@ class GildedRose(object):
                     else:
                         item.quality = item.quality - item.quality
                 else:
-                    self.update_if_under_50(item)
+                    self.quality_up(item)
 
     def quality_up(self, item):
         if item.quality < 50:
