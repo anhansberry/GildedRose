@@ -1,3 +1,6 @@
+THIS IS A NEW BIT OF STUFF AND I WANT TO SEE ABOUT HOW GIT WORKS
+
+
 Normal Items:
 quality - 1
 sell by - 1
