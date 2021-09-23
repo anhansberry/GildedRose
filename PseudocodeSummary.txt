@@ -1,0 +1,23 @@
+Normal Items:
+quality - 1
+sell by - 1
+except: 
+quality cant be negative and 
+quality degrades - 2 when sell by is negative
+
+Aged Brie
+quality + 1
+sell by - 1
+except: 
+quality cant be over 50
+
+Sulfuras
+quality + 0
+sell by + 0 
+no changes
+
+Backstage
+quality + 1
+sell by - 1
+except:
+bonus quality if sell by within 10, bonus bonus if within 5, none if negative
